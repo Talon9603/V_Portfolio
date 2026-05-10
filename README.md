@@ -1,90 +1,76 @@
-# V_Portfolio
+# 📸 Link Click Portfolio
 
-<!-- ================= HEADER ================= -->
-<h1 align="center">⚖️ Court Record: Talon V</h1>
-<h3 align="center">Defense Attorney for Clean Code & Efficient Systems</h3>
+A cinematic data science & software engineering portfolio inspired by 
+Shiguang Dailiren (Link Click).
 
-<p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL" alt="Ace Attorney Banner" />
-</p>
+## ✨ Features
 
----
-
-## 🧑‍⚖️ Attorney Profile
-
-> “The truth always lies within the code.”
-
-- 💻 Applied Data Science and Analytics
-- ⚙️ Focus: H, H
-- 🧠 Interests: H, H
-- 📍 Location: United States
+- Animated dark-mode interface
+- Framer Motion transitions
+- Interactive project timelines
+- Flashback project generator
+- Responsive design
+- Tailwind CSS neon aesthetic
 
 ---
 
-## 📂 Court Record (Projects)
+## 🛠 Tech Stack
 
-### 📜 Evidence A — *Turnabout Dashboard*
-- **Case**: Ex - Build a scalable analytics dashboard  
-- **Tech**: Ex - Next.js, TypeScript, Tailwind, Recharts  
-- **Verdict**: Ex - Delivered interactive UI with real-time insights  
-- 🔗 [View Repository](#)
-
----
-
-### 🔍 Evidence B — *The Concurrent Case*
-- **Case**:   
-- **Tech**:   
-- **Verdict**:   
-- 🔗 [View Repository](#)
+- Next.js 15
+- TypeScript
+- Tailwind CSS
+- Framer Motion
+- Recharts
+- Vercel
 
 ---
 
-### 🛡️ Evidence C — *Backend Trial*
-- **Case**:   
-- **Tech**:  
-- **Verdict**:   
-- 🔗 [View Repository](#)
+## 📂 Sections
+
+### 🎬 Enter the Photo
+Cinematic landing experience with animated grid overlays.
+
+### 📸 Snapshot Log
+Interactive project gallery with hover transformations.
+
+### ⏳ Mission Archive
+Timeline-based project case studies.
+
+### 🧠 Tools
+Visualized tech stack and development workflow.
 
 ---
 
-## 🗣️ Witness Testimony (Skills)
+## 🚀 Running Locally
 
-> “The witness testifies the following expertise:”
-
-- **Languages**: Python, R, C, C++, TypeScript, Java  
-- **Frontend**: Next.js, React, Tailwind CSS  
-- **Backend**: Django, REST APIs  
-- **Tools**: Git, Docker, PostgreSQL  
-- **Concepts**: Multithreading, Data Structures, System Design  
+```bash
+npm install
+npm run dev
+```
 
 ---
 
-## ❗ Objections (Current Work / Issues)
+## 🌐 Deployment
 
-> “Objection! These matters are still under investigation.”
+Recommended deployment platform:
 
-- 🔧 Improving performance in multithreaded applications  
-- 🐛 Debugging edge cases in API endpoints  
-- 🚧 Building new portfolio features  
+- Vercel
 
 ---
 
-## ⚡ Verdict (Achievements)
+## 📷 Theme Inspiration
 
-- 🏆 Built full-stack applications with modern frameworks  
-- 📈 Optimized system performance in low-level C programs  
-- 🧪 Developed scalable backend services  
-
----
-
-## 📬 Submit Testimony (Contact)
-
-- 📧 Email: vishaka.venkatraman@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile  
-- 🌐 Portfolio: https://yourwebsite.com  
+Inspired by:
+- Link Click (Shiguang Dailiren)
+- Cyberpunk UI systems
+- Analog photography aesthetics
+- Time-based storytelling
 
 ---
 
-## ⚖️ Final Statement
+## 🧩 Future Additions
 
-> “No matter how complex the case… the code will reveal the truth.”
+- Interactive timeline map
+- AI-generated project summaries
+- GitHub contribution visualizer
+- Live activity feed
